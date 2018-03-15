@@ -1,1 +1,0 @@
-move D:\wymusic\Cache\a.txt D:\wymusic\test.txt

@@ -1,0 +1,2 @@
+move D:\wymusic\Cache\a.txt D:\wymusic\test.txt
+move 源文件路径 目标路径
